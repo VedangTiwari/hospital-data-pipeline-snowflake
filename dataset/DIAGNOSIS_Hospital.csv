@@ -1,0 +1,14 @@
+DiagnosisID,VisitID,Diagnosis,Notes
+DG01,V1001,Flu,Mild Fever
+DG02,V1002,Diabetes,Regular Checkup
+DG03,V1003,Migraine,Severe Headache
+DG04,V1004,Cold,Mild
+DG05,V1005,Flu,Moderate
+DG06,V1006,Diabetes,Severe
+DG07,V1007,Migraine,Mild
+DG08,V1008,Cold,Moderate
+DG09,V1009,Flu,Mild
+DG10,V1010,Diabetes,Severe
+DG11,V1011,Migraine,Moderate
+DG12,V1012,Cold,Mild
+DG13,V1013,Flu,Moderate
